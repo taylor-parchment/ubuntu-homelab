@@ -42,7 +42,7 @@ The shared folder needs to specified in the Samba config file at `/etc/samba/smb
 
 For the moment, since I'm the only one accessing the folder, I set myself as the only user.
 
-![[samba-config.png]]
+![samba config](screenshots/samba-config.png)
 
 Lastly, a password should be set:
 ```
@@ -51,7 +51,7 @@ sudo systemctl restart smbd
 ```
 After entering the credentials in Windows, I had access to the folder! Now moving things between the server is super easy and can be done in Windows' default file explorer.
 
-![[windows-file-access.png]]
+![windows file access](screenshots/windows-file-access.PNG)
 
 ## Netdata
 
@@ -63,7 +63,7 @@ wget -O /tmp/netdata-kickstart.sh https://get.netdata.cloud/kickstart.sh && sh /
 ```
 After that, everything can be monitored on a browser at port 19999 by default.
 
-![[netdata.png]]
+![netdata](screenshots/netdata.PNG)
 
 ## Docker
 
@@ -121,11 +121,11 @@ After setting a username and password in the Jellyfin application, it's good to 
 
 The home screen looks like this after adding a few movies and shows.
 
-![[Pasted image 20260627183009.png]]
+![jellyfin](screenshots/jellyfin-home.png)
 ## Lute
 
 The exact same process can be done to install the language learning tool Lute with Docker. I followed the Docker setup guide on the [site](https://luteorg.github.io/lute-manual/install/install.html#using-docker).
 
 After importing a few of my previous articles, the home screen looks like this:
 
-![[lute-home.png]]
+![lute](screenshots/lute-home.PNG)
