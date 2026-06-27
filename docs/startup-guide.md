@@ -42,7 +42,7 @@ The shared folder needs to specified in the Samba config file at `/etc/samba/smb
 
 For the moment, since I'm the only one accessing the folder, I set myself as the only user.
 
-![samba config](screenshots/samba-config.png)
+![samba config](screenshots/samba-config.PNG)
 
 Lastly, a password should be set:
 ```
