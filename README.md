@@ -17,7 +17,7 @@ Throughout the process, I hope to develop my understanding of networks, troubles
 - All configuration is done on my personal laptop, a Lenovo ThinkPad E14 Gen 2 Intel i7-1165G7 (8) @ 2.80GHz with 16GB RAM.
 - Hosted services are also accessed by two Roku streaming sticks (via Jellyfin application) and mobile phones (through the browser).
 
-# Software and Services
+## Software and Services
 
 The server OS is Ubuntu 24.04.4 LTS. This being my first attempt and a bit of a learning activity, I just decided to use exactly what I had available at the moment. However, I will likely consider the advantages to switching to Ubuntu Server instead.
 
