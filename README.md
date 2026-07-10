@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is my first attempt at setting up a homelab for self-hosting simple features and applications that I want to use across several devices in my home. The server is running on an old Microsoft Surface laptop with Ubuntu. This project serves multiple purposes for me: a low-budget introduction into homelabbing, a way to gain some IT experience, and a genuinely useful system that I use every day in my home.
+This is my first attempt at setting up a homelab for self-hosting simple features and applications that I want to use across several devices in my home. The server is running on an old Microsoft Surface laptop with Ubuntu. This project serves multiple purposes for me: a low-budget introduction into homelabbing, a way to gain some IT experience, and a genuinely useful system that I use every day in my home. A detailed setup guide is available in [startup-guide.md](docs/startup-guide.md).
 
 ## Project Goals
 
