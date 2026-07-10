@@ -48,3 +48,7 @@ System Monitoring|**Netdata**: Installed and configured Netdata to monitor serve
 Storage and File Sharing|**ext4 Drive**: Configured an external hard drive as permanent Linux storage using the ext4 filesystem and automatic mounting through /etc/fstab. <br> **Samba**: Shared storage across the local network with Samba for seamless access from Windows while supporting media libraries hosted by Jellyfin.
 Troubleshooting|Diagnosed and resolved issues including Docker daemon permission errors, SSH host authentication warnings, Linux file permissions, Wi-Fi connectivity during lid-close behavior, and application configuration. Verified solutions through testing and documented configuration changes to improve repeatability.
 Documentation|**Github**: Documented system architecture, installation procedures, configuration decisions, and troubleshooting steps in this GitHub repository to provide reproducible setup instructions and demonstrate technical communication skills.
+
+## Troubleshooting
+
+Troubleshooting logs can be found in [docs/troubleshoting.md](/docs/troubleshooting.md).
